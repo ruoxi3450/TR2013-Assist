@@ -22,7 +22,7 @@ BEGIN
             VALUE "FileDescription", "TR2013 Assist\0"
             VALUE "FileVersion", "0.1.0-rc1\0"
             VALUE "InternalName", "TR2013_Assist\0"
-            VALUE "LegalCopyright", "Copyright (c) 2026 Yuan\0"
+            VALUE "LegalCopyright", "Copyright (c) 2026 Snse\0"
             VALUE "OriginalFilename", "TR2013_Assist.exe\0"
             VALUE "ProductName", "TR2013 Assist\0"
             VALUE "ProductVersion", "0.1.0-rc1\0"
